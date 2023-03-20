@@ -1,0 +1,1 @@
+该代码整合了Color_Recognition和QRcode_DetecAndDecodeMulti的内容，实现了实时检测解码试管管身的二维码并检测试管的溶液颜色
