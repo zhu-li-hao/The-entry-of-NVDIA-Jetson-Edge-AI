@@ -16,5 +16,5 @@ NVIDA Jetson Edge AI开发者大赛的参赛作品
 溶液的颜色。
 
 
-![image](images/1.jpg)
-![image](images/2.jpg)
+![image](Images/1.jpg)
+![image](Images/2.jpg)
